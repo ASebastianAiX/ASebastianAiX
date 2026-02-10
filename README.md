@@ -104,70 +104,6 @@ I'm an Applied AI Systems Architect with 30+ years of operations leadership, bui
 - Tech: JavaScript, Full-Stack, Database Architecture, Real Estate Tech
 
 ---
-
-## 🛠️ Technology Stack
-
-### **Languages & Core**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-
-### **AI & Machine Learning**
-![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat&logoColor=white)
-![LightGBM](https://img.shields.io/badge/-LightGBM-03C03C?style=flat&logoColor=white)
-![H2O.ai](https://img.shields.io/badge/-H2O.ai-FFD700?style=flat&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-### **Generative AI & LLM Tools**
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/-Azure_OpenAI-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-FF6B6B?style=flat&logoColor=white)
-
-### **Data Engineering & Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?style=flat&logoColor=white)
-![FAISS](https://img.shields.io/badge/-FAISS-00A3E0?style=flat&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-
-### **Data Science & Analytics**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-
-### **Development & Deployment**
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-### **Cloud & Infrastructure**
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
-### **AI Development Tools**
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-### **Healthcare & Compliance**
-![Epic EMR](https://img.shields.io/badge/-Epic_EMR-7F0000?style=flat&logoColor=white)
-![HL7/FHIR](https://img.shields.io/badge/-HL7_FHIR-FF6B35?style=flat&logoColor=white)
-![HIPAA](https://img.shields.io/badge/-HIPAA-006400?style=flat&logoColor=white)
-![GDPR](https://img.shields.io/badge/-GDPR-003399?style=flat&logoColor=white)
-
----
-
 ## 📚 Education & Active Certifications
 
 **🎓 Concurrent Elite Technology Programs (5 Active)**
@@ -340,6 +276,70 @@ Healthcare AI Engineer • Clinical Informatics • Medical AI Systems • Epic 
 🌍 **Tri-Continental** - Las Vegas (NV), Marbella (Spain - primary since 2022), Medellín (Colombia)
 
 ---
+---
+
+## 🛠️ Technology Stack
+
+### **Languages & Core**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+
+### **AI & Machine Learning**
+![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat&logoColor=white)
+![LightGBM](https://img.shields.io/badge/-LightGBM-03C03C?style=flat&logoColor=white)
+![H2O.ai](https://img.shields.io/badge/-H2O.ai-FFD700?style=flat&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+### **Generative AI & LLM Tools**
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/-Azure_OpenAI-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-FF6B6B?style=flat&logoColor=white)
+
+### **Data Engineering & Databases**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?style=flat&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-00A3E0?style=flat&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+
+### **Data Science & Analytics**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+
+### **Development & Deployment**
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+### **Cloud & Infrastructure**
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+### **AI Development Tools**
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+### **Healthcare & Compliance**
+![Epic EMR](https://img.shields.io/badge/-Epic_EMR-7F0000?style=flat&logoColor=white)
+![HL7/FHIR](https://img.shields.io/badge/-HL7_FHIR-FF6B35?style=flat&logoColor=white)
+![HIPAA](https://img.shields.io/badge/-HIPAA-006400?style=flat&logoColor=white)
+![GDPR](https://img.shields.io/badge/-GDPR-003399?style=flat&logoColor=white)
+---
+
 
 ## 📫 Let's Connect
 
