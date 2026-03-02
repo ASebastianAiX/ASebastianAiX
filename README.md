@@ -76,7 +76,7 @@ I build **production-grade AI systems** — not academic exercises. Every projec
 
 **Focus:** ML Algorithms • Predictive Modelings 
 
-✅ **Completed:** 2 out of 7 major projects completed
+✅ **Completed:** AI/ML projects from UT Austin McCombs School of Business & The Great Learning — EDA, Supervised Learning, Unsupervised Learning, and NLP. 2 of 7 projects complete.
 
 ---
 ### **Business Science University**
