@@ -85,7 +85,7 @@ I build **production-grade AI systems** — not academic exercises. Every projec
 
 **Focus:** LLMs • RAG • LanGraph • AI Agents
 
-✅ **Completed:** Out of 23 total projects- 5 have been completed to include NLP Sentiment Analyzer (Azure), Computer Vision Classifier, Customer Orders Analysis
+✅ **Completed:** RAG pipelines, LangGraph workflows, Multi-Agent supervision systems, and AI Forecasting with Prophet. 4 of 7 module projects complete.
 
 ---
 
