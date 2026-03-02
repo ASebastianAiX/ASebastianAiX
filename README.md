@@ -3,11 +3,10 @@
 
 > *30+ years operations leadership. 20+ production AI systems deployed. Building at the intersection of enterprise experience and cutting-edge AI — weekly.*
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/apollosebastian)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thaibox4u@gmail.com)
-[![Instagram](https://img.shields.io/badge/-@apollo__aix-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/apollo_aix)
-![Profile Views](https://komarev.com/ghpvc/?username=ASebastianAiX&label=Profile+Views&color=0e75b6&style=flat-square)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/apollosebastian)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thaibox4u@gmail.com)
+[![Instagram](https://img.shields.io/badge/@apollo__aix-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/apollo_aix)
+![Profile Views](https://komarev.com/ghpvc/?username=ASebastianAiX&color=0e75b6&style=flat-square&label=Profile+Views)
 ---
 
 ## 🎯 What I Do
