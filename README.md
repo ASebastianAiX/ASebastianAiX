@@ -58,83 +58,80 @@ I build **production-grade AI systems** — not academic exercises. Every projec
 
 ---
 
-## 🎓 Active Certifications (5 Concurrent Programs)
-
-| Program | Institution | Focus | Status |
-|---------|------------|-------|--------|
-| **Generative AI for Data Scientists** | Business Science University ⭐ | LLMs, RAG, LangGraph, AI Agents | ✅ Dec 2025–Mar 2026 |
-| **AI/ML Professional Certificate** | UT Austin McCombs School of Business | ML Algorithms, Predictive Modeling | 🔄 Nov 2025–Jul 2026 |
-| **Microsoft AI Engineer Cert** | Purdue University / Simplilearn | Azure AI, Cloud ML, AI Engineering | 🔄 Jan 2026–Aug 2026 |
-| **Cybersecurity: IT & Data Security + AI** | Johns Hopkins Whiting School of Engineering | Network Security, Secure AI, Risk Mgmt | 🔄 Feb 2026–Jul 2026 |
-| **Professional Certificate in Data Engineering** | Purdue University / Simplilearn | ETL, Airflow, Data Warehousing, Big Data | 🔄 Oct 2026–Apr 2027 |
-
 ---
-### **University of TX-Austin (McCombs School of Business / The Great Learning)**
-**AI/ML Professional Certificate**  
-*Nov 2025 – Mar 2026*
 
-**Focus:** ML Algorithms • Predictive Modelings 
+## 🎓 Education & Active Certifications
 
-✅ **Completed:** AI/ML projects from UT Austin McCombs School of Business & The Great Learning — EDA, Supervised Learning, Unsupervised Learning, and NLP. 2 of 7 projects complete.
+<div align="center">
 
----
-### **Business Science University**
-**Generative AI for Data Scientist BootCamp**  
-*Dec 2025 – Mar 2026*
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **5** | **11+** | **4** | **2027** |
+| Concurrent Programs | Projects Completed | Elite Institutions | Final Completion |
 
-**Focus:** LLMs • RAG • LanGraph • AI Agents
-
-✅ **Completed:** RAG pipelines, LangGraph workflows, Multi-Agent supervision systems, and AI Forecasting with Prophet. 4 of 7 module projects complete.
+</div>
 
 ---
 
+### 🟠 Business Science University &nbsp;·&nbsp; ⭐ Flagship Program
+**Generative AI for Data Scientists — Professional Bootcamp**
+&nbsp;&nbsp;`Dec 2025 – Mar 2026` &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/Status-ACTIVE-3fb950?style=flat-square) &nbsp;·&nbsp; ![Progress](https://img.shields.io/badge/Progress-4%2F7%20Modules-f0883e?style=flat-square)
 
-### **Purdue University / Simplilearn**
-**Microsoft AI Engineer Professional Certificate**  
-*Jan 2026 – Aug 2026*
+> *LLMs · RAG · LangGraph · AI Agents · Prompt Engineering · Production Deployment*
 
-**Focus:** Azure AI Services • Cloud ML Deployment • AI Engineering Practices
-
-✅ **Completed:** Out of 23 total projects- 5 have been completed to include NLP Sentiment Analyzer (Azure), Computer Vision Classifier, Customer Orders Analysis
-
----
-
-### **Purdue University / Simplilearn**
-**Professional Certificate in Data Engineering**  
-*Oct 2026 – Apr 2027 (Currently Enrolled)*
-
-**Focus:** ETL Pipeline Design • Data Warehouse Architecture • Apache Airflow • Big Data Processing • Data Quality & Governance
-
-**Status:** Active enrollment with hands-on data engineering projects
+✦ 10+ GenAI/LLM production applications deployed weekly — RAG pipelines, Multi-Agent supervision, AI Forecasting
 
 ---
 
-### **Johns Hopkins University – Whiting School of Engineering**
-**Professional Certificate in Cybersecurity: IT & Data Security in the Age of AI**  
-*Mar 2026 – Aug 2026*
+### 🔵 University of Texas at Austin &nbsp;·&nbsp; McCombs School of Business / The Great Learning
+**Professional Certificate in Artificial Intelligence & Machine Learning**
+&nbsp;&nbsp;`Nov 2025 – Jul 2026` &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-58a6ff?style=flat-square) &nbsp;·&nbsp; ![Progress](https://img.shields.io/badge/Progress-2%2F7%20Projects-58a6ff?style=flat-square)
 
-**Focus:** Network Security • AI Security • Risk Management • Compliance • Secure AI Systems • Threat Modeling • AI Ethics & Governance
+> *ML Algorithms · Predictive Modeling · Classification · EDA · NLP*
 
-**Status:** Active with focus on secure AI system design
+✦ FoodHub Order Analysis &nbsp;·&nbsp; Personal Loan Campaign (85%+ accuracy)
 
 ---
 
-### **📖 Prior Education**
+### 🟣 Purdue University &nbsp;·&nbsp; Simplilearn
+**Microsoft AI Engineer Professional Certificate**
+&nbsp;&nbsp;`Jan 2026 – Aug 2026` &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-bc8cff?style=flat-square) &nbsp;·&nbsp; ![Progress](https://img.shields.io/badge/Progress-5%2F23%20Projects-bc8cff?style=flat-square)
 
-**Arizona State University**  
-Healthcare Entrepreneurship and Innovation
+> *Azure AI Services · Cloud ML Deployment · NLP · Computer Vision · AI Engineering*
 
-**California State University, Hayward**  
-Computer Science (Upper Division)
+✦ NLP Sentiment Analyzer (Azure) &nbsp;·&nbsp; Computer Vision Classifier &nbsp;·&nbsp; Customer Orders Analysis
 
-**San Jose State University**  
-Computer Science
+---
 
-**Concorde Career Institute**  
-Respiratory Therapy
+### 🔴 Johns Hopkins University &nbsp;·&nbsp; Whiting School of Engineering
+**Professional Certificate in Cybersecurity: IT & Data Security in the Age of AI**
+&nbsp;&nbsp;`Mar 2026 – Aug 2026` &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-f85149?style=flat-square)
 
-**U.S. Navy**  
-Hospital Corpsman / Combat Medic Program
+> *Network Security · AI Security · Risk Management · Threat Modeling · AI Ethics & Governance*
+
+✦ Focus on secure AI system design and HIPAA/GDPR compliance frameworks
+
+---
+
+### 🟢 Purdue University &nbsp;·&nbsp; Simplilearn
+**Professional Certificate in Data Engineering**
+&nbsp;&nbsp;`Oct 2026 – Apr 2027` &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/Status-ENROLLED-39d353?style=flat-square)
+
+> *ETL Pipeline Design · Apache Airflow · Data Warehousing · Big Data · dbt · Data Governance*
+
+✦ Hands-on pipeline development, cloud data infrastructure, and production data systems
+
+---
+
+### 📖 Foundation & Prior Education
+
+| Institution | Program |
+|-------------|---------|
+| 🎓 Arizona State University | Healthcare Entrepreneurship & Innovation |
+| 💻 California State University, Hayward | Computer Science — Upper Division |
+| 💻 San Jose State University | Computer Science |
+| 🏥 Concorde Career Institute | Respiratory Therapy |
+| ⚓ U.S. Navy | Hospital Corpsman / Combat Medic Program |
 
 ---
 
