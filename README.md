@@ -1,4 +1,4 @@
-# Apollo Sebastian — APOLLO_AiX 🚀
+# Apollo Sebastian — APOLLO_AiX 
 ### Applied AI Systems Architect | GenAI · ML · Data Engineering · Secure AI Systems
 
 > *30+ years operations leadership. 20+ production AI systems deployed. Building at the intersection of enterprise experience and cutting-edge AI — weekly.*
