@@ -60,52 +60,55 @@ I build **production-grade AI systems** — not academic exercises. Every projec
 
 ---
 
+
 ## 🎓 Education & Active Certifications
 
 <div align="center">
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| **5** | **11+** | **4** | **2027** |
+| **5** | **56+** | **4** | **2027** |
 | Concurrent Programs | Projects Completed | Elite Institutions | Final Completion |
 
 </div>
+
+> 56+ completed projects include: AI/ML · GenAI · Data Engineering · Cybersecurity · Azure AI · 4 full-stack web/app builds in progress · 2 software development projects
 
 ---
 
 ### 🟠 Business Science University &nbsp;·&nbsp; ⭐ Flagship Program
 **Generative AI for Data Scientists — Professional Bootcamp**
-&nbsp;&nbsp;`Dec 2025 – Mar 2026` &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/Status-ACTIVE-3fb950?style=flat-square) &nbsp;·&nbsp; ![Progress](https://img.shields.io/badge/Progress-4%2F7%20Modules-f0883e?style=flat-square)
+&nbsp;&nbsp;`Dec 2025 – Mar 2026` &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/Status-COMPLETED-3fb950?style=flat-square) &nbsp;·&nbsp; ![Progress](https://img.shields.io/badge/Progress-7%2F7%20Modules-3fb950?style=flat-square) &nbsp;·&nbsp; ![Projects](https://img.shields.io/badge/Projects-40%2B-f0883e?style=flat-square)
 
 > *LLMs · RAG · LangGraph · AI Agents · Prompt Engineering · Production Deployment*
 
-✦ 10+ GenAI/LLM production applications deployed weekly — RAG pipelines, Multi-Agent supervision, AI Forecasting
+✦ 40+ GenAI/LLM production applications deployed — RAG pipelines, Multi-Agent supervision, AI Forecasting, LangGraph workflows
 
 ---
 
 ### 🔵 University of Texas at Austin &nbsp;·&nbsp; McCombs School of Business / The Great Learning
 **Professional Certificate in Artificial Intelligence & Machine Learning**
-&nbsp;&nbsp;`Nov 2025 – Jul 2026` &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-58a6ff?style=flat-square) &nbsp;·&nbsp; ![Progress](https://img.shields.io/badge/Progress-2%2F7%20Projects-58a6ff?style=flat-square)
+&nbsp;&nbsp;`Nov 2025 – Jul 2026` &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-58a6ff?style=flat-square) &nbsp;·&nbsp; ![Progress](https://img.shields.io/badge/Progress-4%2F7%20Projects-58a6ff?style=flat-square)
 
 > *ML Algorithms · Predictive Modeling · Classification · EDA · NLP*
 
-✦ FoodHub Order Analysis &nbsp;·&nbsp; Personal Loan Campaign (85%+ accuracy)
+✦ FoodHub Order Analysis &nbsp;·&nbsp; Personal Loan Campaign (85%+ accuracy) &nbsp;·&nbsp; 2 additional projects complete
 
 ---
 
 ### 🟣 Purdue University &nbsp;·&nbsp; Simplilearn
 **Microsoft AI Engineer Professional Certificate**
-&nbsp;&nbsp;`Jan 2026 – Aug 2026` &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-bc8cff?style=flat-square) &nbsp;·&nbsp; ![Progress](https://img.shields.io/badge/Progress-5%2F23%20Projects-bc8cff?style=flat-square)
+&nbsp;&nbsp;`Jan 2026 – Aug 2026` &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-bc8cff?style=flat-square) &nbsp;·&nbsp; ![Progress](https://img.shields.io/badge/Progress-11%2F23%20Projects-bc8cff?style=flat-square)
 
 > *Azure AI Services · Cloud ML Deployment · NLP · Computer Vision · AI Engineering*
 
-✦ NLP Sentiment Analyzer (Azure) &nbsp;·&nbsp; Computer Vision Classifier &nbsp;·&nbsp; Customer Orders Analysis
+✦ NLP Sentiment Analyzer (Azure) &nbsp;·&nbsp; Computer Vision Classifier &nbsp;·&nbsp; Customer Orders Analysis &nbsp;·&nbsp; 8 additional projects complete
 
 ---
 
 ### 🔴 Johns Hopkins University &nbsp;·&nbsp; Whiting School of Engineering
 **Professional Certificate in Cybersecurity: IT & Data Security in the Age of AI**
-&nbsp;&nbsp;`Mar 2026 – Aug 2026` &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-f85149?style=flat-square)
+&nbsp;&nbsp;`Mar 2026 – Aug 2026` &nbsp;·&nbsp; ![Status](https://img.shields.io/badge/Status-IN%20PROGRESS-f85149?style=flat-square) &nbsp;·&nbsp; ![Progress](https://img.shields.io/badge/Progress-1%2F8%20Projects-f85149?style=flat-square)
 
 > *Network Security · AI Security · Risk Management · Threat Modeling · AI Ethics & Governance*
 
@@ -184,10 +187,11 @@ I build **production-grade AI systems** — not academic exercises. Every projec
 ## 💡 Why I'm Different
 
 ```
-30+ years healthcare and fitness + martial arts fitness facilites operations  →  Healthcare & Fitness AI that actually works in the real world
+30+ years healthcare and fitness + martial arts fitness facilities operations  →  Healthcare & Fitness AI that actually works in the real world
 20 years P&L business ownership  →  AI built for ROI, not just accuracy metrics
 5 concurrent elite programs      →  Cutting-edge skills delivered in real-time
-20+ production deployments       →  Not a student. A practitioner.
+56+ completed projects           →  Not a student. A practitioner.
+4 full-stack web/app builds      →  End-to-end production systems, not notebooks
 Las Vegas · Marbella · Medellín  →  Global remote execution, US & EU work authorization
 ```
 
