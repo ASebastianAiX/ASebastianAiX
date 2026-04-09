@@ -122,21 +122,37 @@ class Apollo(AppliedAIArchitect):
 
 ---
 
-## 🗂️ Portfolio — Live Apps & Active Repositories
+## 🗂️ Portfolio — All Repositories
 
-| Repository | Type | Focus | Status |
-|:-----------|:-----|:------|:------:|
-| 🎨 [**La Esencia de Lumina**](https://github.com/ASebastianAiX/La-Esencia-de-Lumina) &nbsp;·&nbsp; **[→ Live App ↗](https://la-esencia-de-lumina.replit.app)** | Vibe Coding | AI-assisted luxury fragrance web experience — deployed & live on Replit | `✅ LIVE` |
-| 🚀 [**Production AI Systems**](https://github.com/ASebastianAiX/APOLLO-AiX-Production-Systems) | Independent | 20+ live deployed systems — Healthcare · Fitness · Real Estate · SMB | `✅ Active` |
-| 🤖 [**BSU GenAI Bootcamp**](https://github.com/ASebastianAiX/BSU-GenAI-Bootcamp-Portfolio) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | `✅ Completed` |
-| 🎓 [**UT Austin AI/ML**](https://github.com/ASebastianAiX/UT-Austin-AIML-Portfolio) | UT Austin McCombs | Machine Learning · Classification · Predictive Analytics | `🔄 4 of 7` |
-| ⚙️ [**Purdue AI Engineering**](https://github.com/ASebastianAiX/Purdue-AI-Engineering-Portfolio) | Purdue · Simplilearn | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 11 of 23` |
-| 🔐 [**JHU Cybersecurity**](https://github.com/ASebastianAiX/JHU-Cybersecurity-Portfolio) | Johns Hopkins Whiting | Network Security · Secure AI · Risk Management | `🔄 1 of 8` |
-| 🏗️ [**Purdue Data Engineering**](https://github.com/ASebastianAiX/Purdue-Data-Engineering-Portfolio) | Purdue · Simplilearn | ETL Pipelines · Apache Airflow · Data Warehousing | `🔜 Oct 2026` |
+### 🟢 Live & Active
+
+| Repository | Focus | Status |
+|:-----------|:------|:------:|
+| 🎨 [**La-Esencia-De-Lumina**](https://github.com/ASebastianAiX/La-Esencia-De-Lumina) &nbsp;·&nbsp; **[→ Live App ↗](https://la-esencia-de-lumina.replit.app)** | AI-assisted luxury fragrance web experience — deployed & live | `✅ LIVE` |
+| 🚀 [**ASebastianAiX**](https://github.com/ASebastianAiX/ASebastianAiX) | 20+ production AI/ML systems — Healthcare · Fitness · Real Estate · SMB | `✅ Active` |
+| 📋 [**APOLLO-Ai-PORTFOLIO**](https://github.com/ASebastianAiX/APOLLO-Ai-PORTFOLIO) | Central portfolio hub linking all repositories and programs | `✅ Active` |
+
+### 🔵 Certification Programs — In Progress
+
+| Repository | Institution | Focus | Status |
+|:-----------|:------------|:------|:------:|
+| 🤖 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | `✅ Completed` |
+| 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin McCombs | Machine Learning · Classification · Predictive Analytics · NLP | `🔄 4 of 7` |
+| ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Purdue · Simplilearn | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 11 of 23` |
+| 🔐 **CYBERSECURITY** *(Private)* | Johns Hopkins Whiting | Network Security · Secure AI · Risk Management | `🔄 1 of 8` |
+| 🏗️ **AI-DATA-ENGINEERING-** *(Private)* | Purdue · Simplilearn | ETL Pipelines · Apache Airflow · Data Warehousing · dbt | `🔜 Oct 2026` |
+
+### 🟠 Production Platforms — Near Launch *(Private)*
+
+| Repository | Description |
+|:-----------|:------------|
+| 🏗️ **buildflow-ai** | Construction Intelligence Platform — AI-Powered Bid Estimation, SOW, Risk Analysis |
+| 🏖️ **boho-beach-club-ai** | AI-Powered Luxury Event Operations — Customer support, revenue analytics, marketing content |
+| 🏥 **medflow-ai** | Healthcare Intelligence Platform — AI-Powered Patient Data Extraction & EHR |
 
 ---
 
-## 🎓 Education & Active Certifications
+## 🎓 Active Certifications
 
 <div align="center">
 
@@ -146,7 +162,7 @@ class Apollo(AppliedAIArchitect):
 
 </div>
 
-> 56+ completed projects span: AI/ML · GenAI · RAG · Multi-Agent · SQL Agents · AWS Bedrock · MCP · Azure AI · Cybersecurity · 4 full-stack platforms near launch · 2 software dev projects
+> 56+ completed projects span: GenAI · RAG · Multi-Agent · SQL Agents · AWS Bedrock · MCP · ML · Azure AI · Cybersecurity · 3 private AI platforms in development · 1 live vibe-coded app
 
 <br>
 
