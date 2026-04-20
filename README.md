@@ -4,7 +4,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=32&lines=⚡+Applied+AI+Systems+Architect;🏭+56%2B+Projects+Completed+Across+5+Elite+Programs;🤖+RAG+%7C+LangGraph+%7C+Multi-Agent+%7C+AWS+Bedrock+%7C+MCP;🏥+30%2B+Years+Healthcare+%26+Fitness+Operations;🌍+Las+Vegas+·+Marbella+·+Medellín;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=32&lines=🏆+Capstone+Competition+Winner+—+BSU+GenAI+2026;⚡+Applied+AI+Systems+Architect;🤖+RAG+%7C+LangGraph+%7C+Multi-Agent+%7C+AWS+Bedrock+%7C+MCP;🏥+35%2B+Years+Healthcare+%26+Fitness+Operations;📊+60%2B+Projects+Shipped+Across+6+Elite+Programs;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.)
 
 <br>
 
@@ -51,10 +51,10 @@
 
 ## ⚡ At a Glance
 
-| 60+ | 20+ | 6 | 35+ | 🌍 |
+| 🏆 | 60+ | 6 | 35+ | 🌍 |
 |:---:|:---:|:---:|:---:|:---:|
-| **Projects** | **Production AI** | **Elite Programs** | **Years Ops** | **US + EU** |
-| Completed | Systems Deployed | Simultaneously | Leadership | Work Auth |
+| **Capstone** | **Projects** | **Elite** | **Years** | **US + EU** |
+| **Competition Winner** | **Completed** | **Programs** | **Operations** | **Work Auth** |
 
 </div>
 
@@ -68,9 +68,10 @@ class Apollo(AppliedAIArchitect):
     name          =  "Apollo Sebastian"
     alias         =  "APOLLO_AiX"
     role          =  "Applied AI Systems Architect"
-    experience    =  "30+ years healthcare operations · 20 years P&L ownership"
+    experience    =  "35+ years healthcare operations · 20 years P&L ownership"
+    achievement   =  "🏆 Capstone Competition Winner — BSU GenAI 2026"
     deployments   =  20      # production AI/ML systems — actively growing
-    programs      =  6       # concurrent elite certifications
+    programs      =  6       # concurrent elite certifications (5 certs + BSc Data Science)
     industries    =  ["Healthcare", "Fitness", "Real Estate", "Small Business"]
     locations     =  ["Las Vegas NV 🇺🇸", "Marbella Spain 🇪🇸", "Medellín Colombia 🇨🇴"]
     work_auth     =  ["United States 🇺🇸", "European Union 🇪🇺"]
@@ -78,7 +79,7 @@ class Apollo(AppliedAIArchitect):
 
     differentiator = {
         "edge_1": "Real business context. Real production systems.",
-        "edge_2": "30 years of domain depth others cannot replicate.",
+        "edge_2": "35 years of domain depth others cannot replicate.",
         "edge_3": "Not academic. Not theoretical. Shipping weekly."
     }
 ```
@@ -128,31 +129,31 @@ class Apollo(AppliedAIArchitect):
 
 | Repository | Focus | Status |
 |:-----------|:------|:------:|
-| 🎨 [**La-Esencia-De-Lumina**](https://github.com/ASebastianAiX/La-Esencia-De-Lumina) &nbsp;·&nbsp; **[→ Live App ↗](https://la-esencia-de-lumina.replit.app)** | AI-assisted luxury fragrance web experience — deployed & live | `✅ LIVE` |
+| 🎨 [**La-Esencia-De-Lumina**](https://github.com/ASebastianAiX/La-Esencia-De-Lumina) &nbsp;·&nbsp; **[→ Live App ↗](https://la-esencia-de-lumina.replit.app)** | AI-assisted vibe-coded luxury fragrance experience — deployed & live | `✅ LIVE` |
 | 🚀 [**ASebastianAiX**](https://github.com/ASebastianAiX/ASebastianAiX) | 20+ production AI/ML systems — Healthcare · Fitness · Real Estate · SMB | `✅ Active` |
-| 📋 [**APOLLO-Ai-PORTFOLIO**](https://github.com/ASebastianAiX/APOLLO-Ai-PORTFOLIO) | Central portfolio hub linking all repositories and programs | `✅ Active` |
 
-### 🔵 Certification Programs — In Progress
+### 🎓 Certification Programs
 
 | Repository | Institution | Focus | Status |
 |:-----------|:------------|:------|:------:|
-| 🤖 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | `✅ Completed` |
-| 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin McCombs | Machine Learning · Classification · Predictive Analytics · NLP | `🔄 4 of 7` |
+| 🏆 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | `✅ Completed` |
+| 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin McCombs | Machine Learning · Classification · Predictive Analytics · NLP | `🔄 5 of 9` |
 | ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Purdue · Simplilearn | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 11 of 23` |
 | 🔐 **CYBERSECURITY** *(Private)* | Johns Hopkins Whiting | Network Security · Secure AI · Risk Management | `🔄 1 of 8` |
-| 🏗️ **AI-DATA-ENGINEERING-** *(Private)* | Purdue · Simplilearn | ETL Pipelines · Apache Airflow · Data Warehousing · dbt | `🔜 Oct 2026` |
+| 🏗️ **AI-DATA-ENGINEERING-** *(Private)* | Purdue · Simplilearn | ETL · Apache Airflow · Data Warehousing · dbt | `🔜 Oct 2026` |
+| 🎓 **[ASU — Enrolled]** | Arizona State University | BS Data Science · Software Dev & BI Analytics | `🔄 May 2026–Dec 2027` |
 
-### 🟠 Production Platforms — Near Launch *(Private)*
+### 🔒 Production Platforms — Near Launch *(Private)*
 
-| Repository | Description |
-|:-----------|:------------|
-| 🏗️ **buildflow-ai** | Construction Intelligence Platform — AI-Powered Bid Estimation, SOW, Risk Analysis |
-| 🏖️ **boho-beach-club-ai** | AI-Powered Luxury Event Operations — Customer support, revenue analytics, marketing content |
-| 🏥 **medflow-ai** | Healthcare Intelligence Platform — AI-Powered Patient Data Extraction & EHR |
+| Platform | Description | Stack |
+|:---------|:------------|:------|
+| 🏥 **medflow-ai** | Healthcare Intelligence — AI Patient Data Extraction & EHR · HIPAA-compliant | Python · OpenAI · HIPAA |
+| 🏗️ **buildflow-ai** | Construction Intelligence — AI-Powered Bid Estimation, SOW & Risk Analysis | Python · AI · FastAPI |
+| 🏖️ **boho-beach-club-ai** | Luxury Event Operations — AI customer support, revenue analytics & fraud detection | Python · AI · React |
 
 ---
 
-## 🎓 Active Certifications
+## 🎓 Education & Active Certifications
 
 <div align="center">
 
@@ -162,33 +163,33 @@ class Apollo(AppliedAIArchitect):
 
 </div>
 
-> 60+ completed projects span: GenAI · RAG · Multi-Agent · SQL Agents · AWS Bedrock · MCP · ML · Azure AI · Cybersecurity · 3 private AI platforms in development · 1 live vibe-coded app
+> 60+ completed projects span: GenAI · RAG · Multi-Agent · SQL Agents · AWS Bedrock · MCP · ML · Azure AI · Cybersecurity · 4 full-stack platforms near launch · BSc Data Science in progress at ASU
 
 <br>
 
-🟠 &nbsp;**Business Science University** &nbsp;·&nbsp; ⭐ Flagship Program
-> **Generative AI for Data Scientists — Professional Bootcamp** &nbsp;·&nbsp; `Dec 2025 – Mar 2026`
-> ![](https://img.shields.io/badge/7%2F7%20Modules-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/40%2B%20Projects-f0883e?style=flat-square) &nbsp; RAG · LangGraph · AI Agents · Multi-Agent · SQL Agents · AWS Bedrock · MCP
+🟠 &nbsp;**Business Science University** &nbsp;·&nbsp; ⭐ Flagship &nbsp;·&nbsp; 🏆 **Capstone Competition Winner**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Dec 2025 – Apr 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/7%2F7%20Modules%20✅-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/40%2B%20Projects-f0883e?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏆%20Capstone%20Winner-c9a84c?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAG · LangGraph · AI Agents · Multi-Agent · SQL Agents · AWS Bedrock · MCP · Production Deployment
 
 🔵 &nbsp;**University of Texas at Austin — McCombs School of Business**
-> **AI & Machine Learning Professional Certificate** &nbsp;·&nbsp; `Nov 2025 – Jul 2026`
-> ![](https://img.shields.io/badge/4%2F7%20Projects-58a6ff?style=flat-square) &nbsp; FoodHub · Personal Loan Campaign · Easy Visa · ML Algorithms · NLP · EDA
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Nov 2025 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/5%2F9%20Projects-58a6ff?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FoodHub Analysis · Personal Loan Campaign (85%+ accuracy) · Easy Visa · ML Algorithms · NLP · EDA
 
 🟣 &nbsp;**Purdue University / Simplilearn**
-> **Microsoft AI Engineer Professional Certificate** &nbsp;·&nbsp; `Jan 2026 – Aug 2026`
-> ![](https://img.shields.io/badge/11%2F23%20Projects-bc8cff?style=flat-square) &nbsp; Azure AI · NLP · Computer Vision · Sales · Walmart · Mercedes-Benz · Employee Turnover
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Jan 2026 – Aug 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/11%2F23%20Projects-bc8cff?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azure AI · NLP · Computer Vision · Sales Analysis · Walmart · Mercedes-Benz · Employee Turnover
 
 🔴 &nbsp;**Johns Hopkins University — Whiting School of Engineering**
-> **Cybersecurity: IT & Data Security in the Age of AI** &nbsp;·&nbsp; `Mar 2026 – Aug 2026`
-> ![](https://img.shields.io/badge/1%2F8%20Projects-f85149?style=flat-square) &nbsp; Network Security · Threat Modeling · AI Ethics · Risk Management
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Feb 2026 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/1%2F8%20Projects-f85149?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Network Security · AI Security · Threat Modeling · Risk Management · AI Ethics · GDPR
 
 🟢 &nbsp;**Purdue University / Simplilearn**
-> **Professional Certificate in Data Engineering** &nbsp;·&nbsp; `Oct 2026 – Apr 2027`
-> ![](https://img.shields.io/badge/Enrolled-3fb950?style=flat-square) &nbsp; ETL Pipelines · Apache Airflow · Data Warehousing · dbt · Big Data
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Oct 2026 – Apr 2027` &nbsp;·&nbsp; ![](https://img.shields.io/badge/Enrolled-3fb950?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ETL Pipelines · Apache Airflow · Data Warehousing · dbt · Big Data · Data Governance
 
-🔵  **Arizona State University**  ·  Fully Online
-> **Bachelor of Science in Data Science**  ·  `Resumed May 2026 — Expected Dec 2027`
-> ![](https://img.shields.io/badge/In%20Progress-58a6ff?style=flat-square)   Concentration: Software Development — Business Intelligence Analytics · Statistical Learning · Data Mining · ML Applications · Big Data
+🔵 &nbsp;**Arizona State University — Fully Online**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`May 2026 – Dec 2027` &nbsp;·&nbsp; ![](https://img.shields.io/badge/In%20Progress-58a6ff?style=flat-square) &nbsp;![](https://img.shields.io/badge/BS%20Data%20Science-161b22?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Concentration: Software Development — Business Intelligence Analytics · Statistical Learning · Data Mining
 
 <details>
 <summary><b>📖 &nbsp; Foundation & Prior Education — Click to Expand</b></summary>
@@ -196,7 +197,7 @@ class Apollo(AppliedAIArchitect):
 
 | Institution | Program |
 |:------------|:--------|
-| 🎓 Arizona State University | Healthcare Entrepreneurship & Innovation |
+| 🎓 Arizona State University | Healthcare Entrepreneurship & Innovation (2020–2023) |
 | 💻 California State University, Hayward | Computer Science — Upper Division |
 | 💻 San Jose State University | Computer Science |
 | 🏥 Concorde Career Institute | Respiratory Therapy |
@@ -208,13 +209,13 @@ class Apollo(AppliedAIArchitect):
 
 ## 🏆 What Sets This Portfolio Apart
 
-| &nbsp; | Factor | Why It Matters |
-|:------:|:-------|:--------------|
+| &nbsp; | Edge | What It Means |
+|:------:|:-----|:--------------|
+| 🏆 | **Capstone Competition Winner** | BSU GenAI 2026 — recognized for deploying production GenAI systems, not proofs of concept |
 | 🏭 | **Production Over Academic** | 60+ projects completed — real deployed systems, not classroom notebooks |
-| ⚡ | **Real-Time Skill Delivery** | 6 concurrent programs (5 elite certs + BSc Data Science at ASU) — skills applied to production same week |
-| 🏥 | **30 Years Domain Depth** | Healthcare & fitness operations expertise junior AI engineers cannot replicate |
+| 🏥 | **35 Years Domain Depth** | Healthcare ops + Epic EMR across ICU, NICU, PICU, ER — junior AI engineers cannot replicate this |
 | 💼 | **P&L Accountability** | 20 years business ownership — AI built for ROI, not just accuracy metrics |
-| ⚡ | **Real-Time Skill Delivery** | 5 elite programs running simultaneously — skills applied to production same week |
+| ⚡ | **Real-Time Skill Delivery** | 6 concurrent programs — skills applied to production the same week they're learned |
 | 🌍 | **Global Execution** | US · Spain · Colombia — US and EU work authorization · Remote-first |
 
 ---
@@ -245,11 +246,11 @@ class Apollo(AppliedAIArchitect):
 &nbsp;
 ![Open To](https://img.shields.io/badge/Open%20To-Full--time%20%7C%20Contract%20%7C%20Consulting-58a6ff?style=for-the-badge)
 &nbsp;
-![Auth](https://img.shields.io/badge/Work%20Auth-🇺🇸%20US%20%2B%20🇪🇺%20EU-bc8cff?style=for-the-badge)
+![Auth](https://img.shields.io/badge/Work%20Auth-🇺🇸%20US%20+%20🇪🇺%20EU-bc8cff?style=for-the-badge)
 
 <br>
 
-> *"30 years of operations. 56+ projects completed. Still shipping every week."*
+> *"35 years of operations. 60+ projects shipped. Capstone Competition Winner. Still building every week."*
 
 <br>
 
