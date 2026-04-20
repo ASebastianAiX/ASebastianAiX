@@ -51,7 +51,7 @@
 
 ## ⚡ At a Glance
 
-| 56+ | 20+ | 5 | 30+ | 🌍 |
+| 60+ | 20+ | 6 | 35+ | 🌍 |
 |:---:|:---:|:---:|:---:|:---:|
 | **Projects** | **Production AI** | **Elite Programs** | **Years Ops** | **US + EU** |
 | Completed | Systems Deployed | Simultaneously | Leadership | Work Auth |
@@ -70,7 +70,7 @@ class Apollo(AppliedAIArchitect):
     role          =  "Applied AI Systems Architect"
     experience    =  "30+ years healthcare operations · 20 years P&L ownership"
     deployments   =  20      # production AI/ML systems — actively growing
-    programs      =  5       # concurrent elite certifications
+    programs      =  6       # concurrent elite certifications
     industries    =  ["Healthcare", "Fitness", "Real Estate", "Small Business"]
     locations     =  ["Las Vegas NV 🇺🇸", "Marbella Spain 🇪🇸", "Medellín Colombia 🇨🇴"]
     work_auth     =  ["United States 🇺🇸", "European Union 🇪🇺"]
@@ -156,13 +156,13 @@ class Apollo(AppliedAIArchitect):
 
 <div align="center">
 
-| 5 | 56+ | 4 | 2027 |
+| 6 | 60+ | 5 | 2027 |
 |:---:|:---:|:---:|:---:|
 | **Concurrent Programs** | **Projects Complete** | **Elite Institutions** | **Final Completion** |
 
 </div>
 
-> 56+ completed projects span: GenAI · RAG · Multi-Agent · SQL Agents · AWS Bedrock · MCP · ML · Azure AI · Cybersecurity · 3 private AI platforms in development · 1 live vibe-coded app
+> 60+ completed projects span: GenAI · RAG · Multi-Agent · SQL Agents · AWS Bedrock · MCP · ML · Azure AI · Cybersecurity · 3 private AI platforms in development · 1 live vibe-coded app
 
 <br>
 
@@ -186,6 +186,10 @@ class Apollo(AppliedAIArchitect):
 > **Professional Certificate in Data Engineering** &nbsp;·&nbsp; `Oct 2026 – Apr 2027`
 > ![](https://img.shields.io/badge/Enrolled-3fb950?style=flat-square) &nbsp; ETL Pipelines · Apache Airflow · Data Warehousing · dbt · Big Data
 
+🔵  **Arizona State University**  ·  Fully Online
+> **Bachelor of Science in Data Science**  ·  `Resumed May 2026 — Expected Dec 2027`
+> ![](https://img.shields.io/badge/In%20Progress-58a6ff?style=flat-square)   Concentration: Software Development — Business Intelligence Analytics · Statistical Learning · Data Mining · ML Applications · Big Data
+
 <details>
 <summary><b>📖 &nbsp; Foundation & Prior Education — Click to Expand</b></summary>
 <br>
@@ -206,7 +210,8 @@ class Apollo(AppliedAIArchitect):
 
 | &nbsp; | Factor | Why It Matters |
 |:------:|:-------|:--------------|
-| 🏭 | **Production Over Academic** | 56+ projects completed — real deployed systems, not classroom notebooks |
+| 🏭 | **Production Over Academic** | 60+ projects completed — real deployed systems, not classroom notebooks |
+| ⚡ | **Real-Time Skill Delivery** | 6 concurrent programs (5 elite certs + BSc Data Science at ASU) — skills applied to production same week |
 | 🏥 | **30 Years Domain Depth** | Healthcare & fitness operations expertise junior AI engineers cannot replicate |
 | 💼 | **P&L Accountability** | 20 years business ownership — AI built for ROI, not just accuracy metrics |
 | ⚡ | **Real-Time Skill Delivery** | 5 elite programs running simultaneously — skills applied to production same week |
