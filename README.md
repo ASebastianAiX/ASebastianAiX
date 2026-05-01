@@ -4,7 +4,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=32&lines=🏆+Capstone+Competition+Winner+—+BSU+GenAI+2026;⚡+Applied+AI+Systems+Architect;🤖+RAG+%7C+LangGraph+%7C+Multi-Agent+%7C+AWS+Bedrock+%7C+MCP;🏥+35%2B+Years+Healthcare+%26+Fitness+Operations;📊+60%2B+Projects+Shipped+Across+6+Elite+Programs;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=32&lines=🏆+Capstone+Competition+Winner+—+BSU+GenAI+2026;🎓+BSU+GenAI+Bootcamp+—+Fully+Certified;⚡+Applied+AI+Systems+Architect;🤖+RAG+%7C+LangGraph+%7C+Multi-Agent+%7C+AWS+Bedrock+%7C+MCP;🏥+35%2B+Years+Healthcare+%26+Fitness+Operations;📊+70%2B+Projects+Shipped+Across+6+Elite+Programs;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.)
 
 <br>
 
@@ -51,7 +51,7 @@
 
 ## ⚡ At a Glance
 
-| 🏆 | 60+ | 6 | 35+ | 🌍 |
+| 🏆 | 70+ | 6 | 35+ | 🌍 |
 |:---:|:---:|:---:|:---:|:---:|
 | **Capstone** | **Projects** | **Elite** | **Years** | **US + EU** |
 | **Competition Winner** | **Completed** | **Programs** | **Operations** | **Work Auth** |
@@ -69,9 +69,9 @@ class Apollo(AppliedAIArchitect):
     alias         =  "APOLLO_AiX"
     role          =  "Applied AI Systems Architect"
     experience    =  "35+ years healthcare operations · 20 years P&L ownership"
-    achievement   =  "🏆 Capstone Competition Winner — BSU GenAI 2026"
+    achievement   =  "🏆 Capstone Competition Winner — BSU GenAI 2026 · Fully Certified"
     deployments   =  20      # production AI/ML systems — actively growing
-    programs      =  6       # concurrent elite certifications (5 certs + BSc Data Science)
+    programs      =  6       # concurrent programs (5 certs + BSc Data Science at ASU)
     industries    =  ["Healthcare", "Fitness", "Real Estate", "Small Business"]
     locations     =  ["Las Vegas NV 🇺🇸", "Marbella Spain 🇪🇸", "Medellín Colombia 🇨🇴"]
     work_auth     =  ["United States 🇺🇸", "European Union 🇪🇺"]
@@ -136,12 +136,12 @@ class Apollo(AppliedAIArchitect):
 
 | Repository | Institution | Focus | Status |
 |:-----------|:------------|:------|:------:|
-| 🏆 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | `✅ Completed` |
-| 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin McCombs | Machine Learning · Classification · Predictive Analytics · NLP | `🔄 5 of 9` |
-| ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Purdue · Simplilearn | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 11 of 23` |
-| 🔐 **CYBERSECURITY** *(Private)* | Johns Hopkins Whiting | Network Security · Secure AI · Risk Management | `🔄 1 of 8` |
+| 🏆 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | `✅ Certified` |
+| 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin McCombs | Machine Learning · Classification · Predictive Analytics · NLP | `🔄 6 of 9` |
+| ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Purdue · Simplilearn | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 14 of 23` |
+| 🔐 **CYBERSECURITY** *(Private)* | Johns Hopkins Whiting | Network Security · Secure AI · Risk Management | `🔄 3 of 9` |
 | 🏗️ **AI-DATA-ENGINEERING-** *(Private)* | Purdue · Simplilearn | ETL · Apache Airflow · Data Warehousing · dbt | `🔜 Oct 2026` |
-| 🎓 **[ASU — Enrolled]** | Arizona State University | BS Data Science · Software Dev & BI Analytics | `🔄 May 2026–Dec 2027` |
+| 🎓 **[ASU — In Progress]** | Arizona State University | BS Data Science · Software Dev & BI Analytics | `🔄 May 2026–Dec 2027` |
 
 ### 🔒 Production Platforms — Near Launch *(Private)*
 
@@ -157,30 +157,30 @@ class Apollo(AppliedAIArchitect):
 
 <div align="center">
 
-| 6 | 60+ | 5 | 2027 |
+| 6 | 70+ | 5 | 2027 |
 |:---:|:---:|:---:|:---:|
 | **Concurrent Programs** | **Projects Complete** | **Elite Institutions** | **Final Completion** |
 
 </div>
 
-> 60+ completed projects span: GenAI · RAG · Multi-Agent · SQL Agents · AWS Bedrock · MCP · ML · Azure AI · Cybersecurity · 4 full-stack platforms near launch · BSc Data Science in progress at ASU
+> 70+ completed projects — Python production systems, AI pipelines, RAG · Multi-Agent · SQL Agents · AWS Bedrock · MCP · ML · Azure AI · Cybersecurity · 4 full-stack platforms near launch · BSc Data Science in progress at ASU
 
 <br>
 
-🟠 &nbsp;**Business Science University** &nbsp;·&nbsp; ⭐ Flagship &nbsp;·&nbsp; 🏆 **Capstone Competition Winner**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Dec 2025 – Apr 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/7%2F7%20Modules%20✅-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/40%2B%20Projects-f0883e?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏆%20Capstone%20Winner-c9a84c?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAG · LangGraph · AI Agents · Multi-Agent · SQL Agents · AWS Bedrock · MCP · Production Deployment
+🟠 &nbsp;**Business Science University** &nbsp;·&nbsp; ⭐ Flagship &nbsp;·&nbsp; 🏆 **Capstone Competition Winner · Fully Certified**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Dec 2025 – Apr 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/7%2F7%20Modules%20✅-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/40%2B%20Projects-f0883e?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏆%20Capstone%20Winner-c9a84c?style=flat-square) &nbsp;![](https://img.shields.io/badge/🎓%20Certified-3fb950?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RAG · LangGraph · AI Agents · Multi-Agent · SQL Agents · AWS Bedrock · MCP · Production Deployment · Portfolio Submission Complete
 
 🔵 &nbsp;**University of Texas at Austin — McCombs School of Business**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Nov 2025 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/5%2F9%20Projects-58a6ff?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Nov 2025 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/6%2F9%20Projects-58a6ff?style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FoodHub Analysis · Personal Loan Campaign (85%+ accuracy) · Easy Visa · ML Algorithms · NLP · EDA
 
 🟣 &nbsp;**Purdue University / Simplilearn**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Jan 2026 – Aug 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/11%2F23%20Projects-bc8cff?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Jan 2026 – Aug 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/14%2F23%20Projects-bc8cff?style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azure AI · NLP · Computer Vision · Sales Analysis · Walmart · Mercedes-Benz · Employee Turnover
 
 🔴 &nbsp;**Johns Hopkins University — Whiting School of Engineering**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Feb 2026 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/1%2F8%20Projects-f85149?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Feb 2026 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/3%2F9%20Projects-f85149?style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Network Security · AI Security · Threat Modeling · Risk Management · AI Ethics · GDPR
 
 🟢 &nbsp;**Purdue University / Simplilearn**
@@ -211,9 +211,9 @@ class Apollo(AppliedAIArchitect):
 
 | &nbsp; | Edge | What It Means |
 |:------:|:-----|:--------------|
-| 🏆 | **Capstone Competition Winner** | BSU GenAI 2026 — recognized for deploying production GenAI systems, not proofs of concept |
-| 🏭 | **Production Over Academic** | 60+ projects completed — real deployed systems, not classroom notebooks |
-| 🏥 | **35 Years Domain Depth** | Healthcare ops + Epic EMR across ICU, NICU, PICU, ER — junior AI engineers cannot replicate this |
+| 🏆 | **Capstone Competition Winner · Certified** | BSU GenAI 2026 — full certification earned with portfolio submission complete |
+| 🏭 | **Production Over Academic** | 70+ projects — Python production systems, AI pipelines, deployed apps. Not notebooks. |
+| 🏥 | **35 Years Domain Depth** | Healthcare ops + Epic EMR across ICU, NICU, PICU, ER — irreplaceable real-world context |
 | 💼 | **P&L Accountability** | 20 years business ownership — AI built for ROI, not just accuracy metrics |
 | ⚡ | **Real-Time Skill Delivery** | 6 concurrent programs — skills applied to production the same week they're learned |
 | 🌍 | **Global Execution** | US · Spain · Colombia — US and EU work authorization · Remote-first |
@@ -226,7 +226,7 @@ class Apollo(AppliedAIArchitect):
 
 <img src="https://github-readme-stats.vercel.app/api?username=ASebastianAiX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github&include_all_commits=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASebastianAiX&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASebastianAiX&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" height="180"/>
 
 <br><br>
 
@@ -250,7 +250,12 @@ class Apollo(AppliedAIArchitect):
 
 <br>
 
-> *"35 years of operations. 60+ projects shipped. Capstone Competition Winner. Still building every week."*
+**Primary language: Python** — production scripts, FastAPI services, AI pipelines, and deployed systems.
+Notebooks are used for coursework and exploratory analysis only.
+
+<br>
+
+> *"35 years of operations. 70+ projects shipped. Capstone Competition Winner. Fully Certified. Still building every week."*
 
 <br>
 
