@@ -431,23 +431,3 @@ class Apollo(AppliedAIArchitect):
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
-
-[![📧 Email Me](https://img.shields.io/badge/📧%20Reach%20Out%20Directly-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaibox4u@gmail.com)
-&nbsp;
-[![💼 LinkedIn](https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apollosebastian)
-
-<br>
-
-**Primary language: Python.** Production scripts. FastAPI services. AI pipelines. Deployed systems.
-*Notebooks are for learning. The shipped work lives elsewhere.*
-
-<br>
-
-> ## *"35 years of operations. 70+ projects shipped. Capstone winner. Fully certified."*
-> ### *Still building. Every. Single. Week.*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
