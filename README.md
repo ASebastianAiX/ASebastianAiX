@@ -4,7 +4,7 @@
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=820&height=40&lines=🏆+CAPSTONE+COMPETITION+WINNER+—+BSU+GenAI+2026;🎓+BS+Data+Science+@+Arizona+State+·+Senior+Level;🛡️+Cybersecurity+@+Johns+Hopkins+·+Whiting+School;🏛️+MITxPro+·+UT+Austin+·+Purdue+·+ASU+·+JHU+·+BSU;⚡+35%2B+Years+Operations+·+70%2B+Projects+Shipped;🤖+RAG+·+LangGraph+·+Multi-Agent+·+AWS+Bedrock+·+MCP;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.;💼+Open+to+Full-Time+·+Contract+·+Consulting+—+US+%2B+EU)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=820&height=40&lines=🏆+CAPSTONE+COMPETITION+WINNER+—+BSU+GenAI+2026;🎓+BS+Data+Science+@+Arizona+State+·+Senior+Level;🛡️+Cybersecurity+@+Johns+Hopkins+·+Whiting+School;🏛️+MITxPRO+·+UT+Austin+·+Microsoft+·+ASU+·+JHU+·+BSU;⚡+35%2B+Years+Operations+·+70%2B+Projects+Shipped;🤖+RAG+·+LangGraph+·+Multi-Agent+·+AWS+Bedrock+·+MCP;🚀+Not+Academic.+Not+Theoretical.+Shipping+Weekly.;💼+Open+to+Full-Time+·+Contract+·+Consulting+—+US+%2B+EU)
 
 <br>
 
@@ -91,7 +91,7 @@ class Apollo(AppliedAIArchitect):
 
     # ── The Education Stack ──
     institutions  =  ["MIT xPRO 🏛️", "Johns Hopkins 🏛️", "UT Austin 🏛️",
-                      "Arizona State 🎓", "Purdue 🏛️", "Business Science U 🏆"]
+                      "Arizona State 🎓", "Microsoft 🏛️", "Business Science U 🏆"]
 
     # ── Where ──
     based_in      =  ["Las Vegas 🇺🇸", "Marbella 🇪🇸", "Medellín 🇨🇴"]
@@ -162,25 +162,6 @@ class Apollo(AppliedAIArchitect):
 
 ---
 
-<div align="center">
-
-## 🎨 La Esencia de Lumina &nbsp;·&nbsp; Vibe-Coded Production App
-
-**A luxury fragrance web experience built end-to-end through AI-assisted "vibe coding."**
-
-| | |
-|:---:|:---|
-| **🟢 Status** | Fully Deployed · Live in Production |
-| **🔗 URL** | **[la-esencia-de-lumina.replit.app](https://la-esencia-de-lumina.replit.app)** |
-| **⚡ Approach** | AI-Assisted Development · Rapid Vibe-Coding |
-| **🎯 Why It Matters** | Proof that AI-augmented builders ship faster than traditional teams |
-
-[![🚀 Visit the Live App](https://img.shields.io/badge/🚀%20Experience%20the%20Live%20App%20↗-6e40c9?style=for-the-badge)](https://la-esencia-de-lumina.replit.app)
-
-</div>
-
----
-
 ## 🛠️ The Stack I Build With
 
 <div align="center">
@@ -224,8 +205,8 @@ class Apollo(AppliedAIArchitect):
 
 | Repository | What It Is | Status |
 |:-----------|:------|:------:|
-| 🎨 [**La-Esencia-De-Lumina**](https://github.com/ASebastianAiX/La-Esencia-De-Lumina) &nbsp;·&nbsp; **[→ Live ↗](https://la-esencia-de-lumina.replit.app)** | Vibe-coded luxury fragrance experience — deployed, live, and shipping | `🟢 LIVE` |
 | 🚀 [**ASebastianAiX**](https://github.com/ASebastianAiX/ASebastianAiX) | This profile · 20+ production AI/ML systems across 6 industries | `🟢 Active` |
+| 🎨 [**La-Esencia-De-Lumina**](https://github.com/ASebastianAiX/La-Esencia-De-Lumina) | Vibe-coded luxury fragrance web experience — AI-assisted development | `🔧 Temporarily Offline` |
 
 ### 🎓 Certification Programs
 
@@ -233,10 +214,10 @@ class Apollo(AppliedAIArchitect):
 |:-----------|:------------|:------|:------:|
 | 🏆 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | `🏆 Certified` |
 | 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin · McCombs | Machine Learning · Classification · Predictive Analytics · NLP | `🔄 6/9` |
-| ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Purdue · Simplilearn | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 14/23` |
-| 🛡️ **CYBERSECURITY** *(Private)* | **Johns Hopkins · Whiting School** | Network Security · Secure AI · Risk Management · Threat Modeling | `🔄 3/9` |
-| 📊 **DATA-SCIENCE-MITxPRO** *(Private)* | **MIT xPRO** | Data Science · Statistical Modeling · ML Engineering · Big Data | `🔜 Oct 2026` |
-| 🎓 **ASU — BS Data Science** *(In Progress)* | **Arizona State University** | Senior Level · BS Data Science · Software Dev & BI Analytics | `🔄 Grad Dec 2027` |
+| ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Microsoft · AI Engineer Certificate | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 14/23` |
+| 🛡️ [**CYBERSECURITY**](https://github.com/ASebastianAiX/CYBERSECURITY) | **Johns Hopkins · Whiting School** | Network Security · Secure AI · Risk Management · Threat Modeling | `🔄 3/9` |
+| 📊 [**AI-DATA-ENGINEERING-MITxPRO**](https://github.com/ASebastianAiX/AI-DATA-ENGINEERING-MITxPRO) | **MIT xPRO** | Data Engineering · ETL · Airflow · Warehousing · Big Data | `🔜 Oct 2026` |
+| 🎓 [**ASU-BS-Data-Science**](https://github.com/ASebastianAiX/ASU-BS-Data-Science) | **Arizona State University** | Senior Level · BS Data Science · Software Dev & BI Analytics | `🔄 Grad Dec 2027` |
 
 ### 🔒 Production Platforms — Near Launch
 
@@ -256,8 +237,8 @@ class Apollo(AppliedAIArchitect):
 
 | 🏆 | 🎓 | 🛡️ | 🏛️ | 🏛️ | ⭐ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **BSU** | **ASU** | **Johns Hopkins** | **MIT xPRO** | **UT Austin** | **Purdue** |
-| Capstone Winner | BS Data Science | Cybersecurity | Data Science | Machine Learning | AI Engineering |
+| **BSU** | **ASU** | **Johns Hopkins** | **MIT xPRO** | **UT Austin** | **Microsoft** |
+| Capstone Winner | BS Data Science | Cybersecurity | Data Engineering | Machine Learning | AI Engineering |
 
 | 6 | 70+ | 5 | Dec 2027 |
 |:---:|:---:|:---:|:---:|
@@ -289,7 +270,7 @@ class Apollo(AppliedAIArchitect):
 
 > **One of the most prestigious research universities in the United States. Whiting School of Engineering is consistently ranked among the top engineering programs nationally.** *Top 10 globally for engineering and applied sciences.*
 
-🔴 &nbsp;**Cybersecurity Certification Program**
+🔴 &nbsp;**Cybersecurity: IT & Data Security in the Age of AI**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Feb 2026 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/3%2F9%20Projects-f85149?style=flat-square) &nbsp;![](https://img.shields.io/badge/🛡️%20JHU%20Whiting-c9a84c?style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Network Security · AI Security · Threat Modeling · Risk Management · AI Ethics · GDPR Compliance · MITRE ATT&CK Framework
 
@@ -301,9 +282,9 @@ class Apollo(AppliedAIArchitect):
 
 > **The #1 university in the world for technology, engineering, and computer science.** *(QS World Rankings — consistently top 1.)*
 
-🟢 &nbsp;**Data Science Professional Certificate Program**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Oct 2026 – Apr 2027` &nbsp;·&nbsp; ![](https://img.shields.io/badge/Enrolled-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏛️%20MIT%20xPRO-c9a84c?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Science · Statistical Modeling · ML Engineering · Big Data · Advanced Analytics · Production Data Pipelines
+🟢 &nbsp;**Professional Certificate in Data Engineering**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Oct 2026 – Apr 2027` &nbsp;·&nbsp; ![](https://img.shields.io/badge/Enrolled-3fb950?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏛️%20MIT%20xPRO-c9a84c?style=flat-square) &nbsp;![](https://img.shields.io/badge/6%20Months-161b22?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data Engineering · ETL Pipelines · Apache Airflow · Data Warehousing · dbt · Big Data · Cloud Infrastructure
 
 <br>
 
@@ -331,13 +312,13 @@ class Apollo(AppliedAIArchitect):
 
 ---
 
-### 🟣 **Purdue University** &nbsp;·&nbsp; Simplilearn Partnership &nbsp;·&nbsp; 🇺🇸
+### 🟣 **Microsoft** &nbsp;·&nbsp; AI Engineer Professional Certificate &nbsp;·&nbsp; 🇺🇸
 
-> **Top-ranked engineering university in the United States.** *(U.S. News — consistently top 10 for engineering.)*
+> **The world's leading technology company.** Aligned with the **Microsoft Azure AI Engineer Associate** certification path.
 
-🟣 &nbsp;**Professional Certificate in AI Engineering**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Jan 2026 – Aug 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/14%2F23%20Projects-bc8cff?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏛️%20Purdue-c9a84c?style=flat-square)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azure AI · NLP · Computer Vision · Sales Analysis · Walmart · Mercedes-Benz · Employee Turnover
+🟣 &nbsp;**Professional Certificate in Microsoft AI Engineering**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Jan 2026 – Aug 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/14%2F23%20Projects-bc8cff?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏛️%20Microsoft-c9a84c?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Azure AI · NLP · Computer Vision · GitHub Copilot · Sales Analysis · Walmart · Mercedes-Benz · Employee Turnover
 
 <br>
 
@@ -364,7 +345,7 @@ class Apollo(AppliedAIArchitect):
 | | The Edge | What It Actually Means |
 |:---:|:-----|:--------------|
 | 🏆 | **Capstone Competition Winner** | I beat an entire cohort of AI engineers. The work speaks. |
-| 🏛️ | **Top-Tier Institution Stack** | MIT xPRO · Johns Hopkins · UT Austin · Arizona State · Purdue · BSU. Six elite programs, simultaneously. |
+| 🏛️ | **Top-Tier Institution Stack** | MIT xPRO · Johns Hopkins · UT Austin · Arizona State · Microsoft · BSU. Six elite programs, simultaneously. |
 | 🎓 | **BS Data Science · Senior Level** | Graduating from Arizona State University in December 2027. Already in the home stretch. |
 | 🏭 | **Production > Academic** | 70+ shipped systems. Deployed apps. Real users. **Not notebooks.** |
 | 🏥 | **35 Years of Operational DNA** | Healthcare ops + Epic EMR across ICU, NICU, PICU, ER. Domain depth that can't be Googled. |
