@@ -20,8 +20,9 @@
 
 <br>
 
+[![Website](https://img.shields.io/badge/🌐%20apolloaix.com-0d1117?style=for-the-badge&logoColor=white)](https://apolloaix.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apollosebastian)&nbsp;
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaibox4u@gmail.com)&nbsp;
+[![Email](https://img.shields.io/badge/Apollo.Sebastian@apolloaix.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Apollo.Sebastian@apolloaix.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/@apollo__aix-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apollo_aix)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Full_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASebastianAiX/APOLLO-Ai-PORTFOLIO)&nbsp;
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ASebastianAiX.ASebastianAiX&left_color=1a1f2e&right_color=0e75b6&left_text=Profile%20Views)
@@ -93,6 +94,13 @@ class Apollo(AppliedAIArchitect):
     institutions  =  ["MIT xPRO 🏛️", "Johns Hopkins 🏛️", "UT Austin 🏛️",
                       "Arizona State 🎓", "Microsoft 🏛️", "Business Science U 🏆"]
 
+    # ── Contact ──
+    website       =  "apolloaix.com"
+    email         =  "Apollo.Sebastian@apolloaix.com"
+    whatsapp      =  "+1 (702) 313-0452"
+    linkedin      =  "linkedin.com/in/apollosebastian"
+    instagram     =  "@apollo_aix"
+
     # ── Where ──
     based_in      =  ["Las Vegas 🇺🇸", "Marbella 🇪🇸", "Medellín 🇨🇴"]
     work_auth     =  ["United States 🇺🇸", "European Union 🇪🇺"]
@@ -111,10 +119,9 @@ class Apollo(AppliedAIArchitect):
 
 ---
 
-## 🚀 Featured Projects — Beyond the Capstone
+## 🚀 Featured Projects & Platforms
 
-> **Currently in cert review.** Full links and case studies launching publicly post-certification.
-> *(The capstone above is fully public and production-deployed.)*
+> **Capstone is fully live.** Additional platforms below are in active development and cert review.
 
 <table>
 <tr>
@@ -124,7 +131,7 @@ class Apollo(AppliedAIArchitect):
 ### **BuildFlow AI**
 *Construction Intelligence Platform*
 
-<sub>AI-powered project management & workflow automation for construction teams.</sub>
+<sub>AI-powered bid estimation, SOW generation & workflow automation for construction teams.</sub>
 
 `Python` `Streamlit` `LLMs`
 
@@ -158,7 +165,68 @@ class Apollo(AppliedAIArchitect):
 
 </td>
 </tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🏗️
+### **Kreative Construction**
+*Construction Business Intelligence*
+
+<sub>AI-powered construction management, project tracking & client intelligence platform.</sub>
+
+`Python` `AI` `FastAPI`
+
+🔜 *In development · Pending launch*
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🔵
+### **UrCIRCLE**
+*Community & Network Intelligence*
+
+<sub>AI-powered community engagement, network building & social intelligence platform.</sub>
+
+`Python` `AI` `React`
+
+🔜 *In development · Pending launch*
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🎨
+### **Lumina Concierge**
+*AI Luxury Brand Experience*
+
+<sub>Live luxury fragrance AI concierge — social media integration pending across all channels.</sub>
+
+`Python` `Streamlit` `AI`
+
+🟡 *Live · Pending social integration*
+
+</td>
+</tr>
 </table>
+
+---
+
+<div align="center">
+
+## 🎨 La Esencia de Lumina &nbsp;·&nbsp; Live Vibe-Coded App
+
+**A luxury fragrance web experience built end-to-end through AI-assisted vibe coding.**
+
+| | |
+|:---:|:---|
+| **🟢 Status** | Live in Production · Social Media Integration Pending |
+| **🔗 URL** | **[la-esencia-de-lumina.replit.app](https://la-esencia-de-lumina.replit.app)** |
+| **⚡ Approach** | AI-Assisted Development · Rapid Vibe-Coding |
+| **🔗 Integrations** | Instagram · WhatsApp · Meta — pending connection |
+| **🎯 Why It Matters** | Proof that AI-augmented builders ship faster than traditional teams |
+
+[![🚀 Visit the Live App](https://img.shields.io/badge/🚀%20Experience%20the%20Live%20App%20↗-6e40c9?style=for-the-badge)](https://la-esencia-de-lumina.replit.app)
+
+</div>
 
 ---
 
@@ -204,9 +272,9 @@ class Apollo(AppliedAIArchitect):
 ### 🟢 Live & Public
 
 | Repository | What It Is | Status |
-|:-----------|:------|:------:|
+|:-----------|:-----------|:------:|
+| 🎨 [**La-Esencia-De-Lumina**](https://github.com/ASebastianAiX/La-Esencia-De-Lumina) &nbsp;·&nbsp; **[→ Live ↗](https://la-esencia-de-lumina.replit.app)** | Vibe-coded luxury fragrance experience — live, social integration pending | `🟡 Live · Integrating` |
 | 🚀 [**ASebastianAiX**](https://github.com/ASebastianAiX/ASebastianAiX) | This profile · 20+ production AI/ML systems across 6 industries | `🟢 Active` |
-| 🎨 [**La-Esencia-De-Lumina**](https://github.com/ASebastianAiX/La-Esencia-De-Lumina) | Vibe-coded luxury fragrance web experience — AI-assisted development | `🔧 Temporarily Offline` |
 
 ### 🎓 Certification Programs
 
@@ -219,13 +287,16 @@ class Apollo(AppliedAIArchitect):
 | 📊 [**AI-DATA-ENGINEERING-MITxPRO**](https://github.com/ASebastianAiX/AI-DATA-ENGINEERING-MITxPRO) | **MIT xPRO** | Data Engineering · ETL · Airflow · Warehousing · Big Data | `🔜 Oct 2026` |
 | 🎓 [**ASU-BS-Data-Science**](https://github.com/ASebastianAiX/ASU-BS-Data-Science) | **Arizona State University** | Senior Level · BS Data Science · Software Dev & BI Analytics | `🔄 Grad Dec 2027` |
 
-### 🔒 Production Platforms — Near Launch
+### 🔒 Production Platforms — Active & Near Launch
 
-| Platform | What It Solves | Stack |
-|:---------|:------------|:------|
-| 🏥 **medflow-ai** | AI Patient Data Extraction & EHR Workflow · HIPAA-aware | Python · OpenAI · FastAPI |
-| 🏗️ **buildflow-ai** | AI-Powered Bid Estimation, SOW Generation & Risk Analysis | Python · AI · FastAPI |
-| 🏖️ **boho-beach-club-ai** | Luxury Event Ops · Customer Support · Revenue Analytics · Fraud Detection | Python · AI · React |
+| Platform | What It Solves | Stack | Status |
+|:---------|:--------------|:------|:------:|
+| 🎨 **Lumina Concierge** | AI luxury brand experience — live, social media integration pending | Python · Streamlit · AI | `🟡 Live · Integrating` |
+| 🏥 **medflow-ai** | AI Patient Data Extraction & EHR Workflow · HIPAA-aware | Python · OpenAI · FastAPI | `🔒 Near Launch` |
+| 🏗️ **buildflow-ai** | AI-Powered Bid Estimation, SOW Generation & Risk Analysis | Python · AI · FastAPI | `🔒 Near Launch` |
+| 🏖️ **boho-beach-club-ai** | Luxury Event Ops · Customer Support · Revenue Analytics · Fraud Detection | Python · AI · React | `🔒 Near Launch` |
+| 🏗️ **kreative-construction** | Construction Business Intelligence · Project Tracking · Client AI | Python · AI · FastAPI | `🔜 In Development` |
+| 🔵 **urcircle** | Community & Network Intelligence · Social AI Platform | Python · AI · React | `🔜 In Development` |
 
 ---
 
@@ -246,7 +317,7 @@ class Apollo(AppliedAIArchitect):
 
 </div>
 
-> **70+ completed projects** spanning Python production systems, AI pipelines, RAG, Multi-Agent architectures, SQL Agents, AWS Bedrock, MCP integrations, classical ML, Azure AI, Cybersecurity, and 4 full-stack platforms near launch. **Plus a BS in Data Science from Arizona State University — graduating December 2027.**
+> **70+ completed projects** spanning Python production systems, AI pipelines, RAG, Multi-Agent architectures, SQL Agents, AWS Bedrock, MCP integrations, classical ML, Azure AI, Cybersecurity, and 6 full-stack platforms in active development. **Plus a BS in Data Science from Arizona State University — graduating December 2027.**
 >
 > *This isn't a curriculum. It's a delivery pipeline.*
 
@@ -385,17 +456,25 @@ class Apollo(AppliedAIArchitect):
 
 ## 🚀 Let's Build Something
 
+[![Website](https://img.shields.io/badge/🌐%20apolloaix.com-0d1117?style=for-the-badge)](https://apolloaix.com)
+&nbsp;
+[![📧 Email](https://img.shields.io/badge/📧%20Apollo.Sebastian@apolloaix.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Apollo.Sebastian@apolloaix.com)
+&nbsp;
+[![📱 WhatsApp](https://img.shields.io/badge/📱%20%2B1%20(702)%20313--0452-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/17023130452)
+
+<br>
+
+[![💼 LinkedIn](https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apollosebastian)
+&nbsp;
+[![📸 Instagram](https://img.shields.io/badge/📸%20@apollo__aix-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apollo_aix)
+
+<br>
+
 ![Available](https://img.shields.io/badge/🟢%20Status-Available%20Now-3fb950?style=for-the-badge)
 &nbsp;
 ![Open To](https://img.shields.io/badge/Open%20To-Full--time%20·%20Contract%20·%20Consulting-58a6ff?style=for-the-badge)
 &nbsp;
 ![Auth](https://img.shields.io/badge/Work%20Auth-🇺🇸%20US%20·%20🇪🇺%20EU-bc8cff?style=for-the-badge)
-
-<br>
-
-[![📧 Email Me](https://img.shields.io/badge/📧%20Reach%20Out%20Directly-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaibox4u@gmail.com)
-&nbsp;
-[![💼 LinkedIn](https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apollosebastian)
 
 <br>
 
@@ -411,4 +490,5 @@ class Apollo(AppliedAIArchitect):
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
+</div>
 </div>
