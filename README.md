@@ -307,16 +307,16 @@ class Apollo(AppliedAIArchitect):
 
 ### 🎓 Certification Programs
 
-| Repository | Institution | Focus | Status |
-|:-----------|:------------|:------|:------:|
-| 🏆 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | `🏆 Certified` |
-| 🟠 **BSU-FORECAST-ENGINEER** *(repo coming)* | Business Science University | Time Series · Forecasting · Prophet · ARIMA · ML Pipelines | `🔜 Aug 10, 2026` |
-| 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin · McCombs | Machine Learning · Predictive Modeling · NLP · Medical AI | `🔄 8/12` |
-| ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Microsoft · AI Engineer Certificate | Azure AI · NLP · Computer Vision · GitHub Copilot | `🔄 17/23` |
-| 🛡️ [**CYBERSECURITY**](https://github.com/ASebastianAiX/CYBERSECURITY) | **Johns Hopkins · Whiting School** | Cryptography · MITRE ATT&CK · Malware Analysis · Wireshark | `🔄 8/14` |
-| 🌐 [**MERN-FULLSTACK-MITxPRO**](https://github.com/ASebastianAiX/MERN-FULLSTACK-MITxPRO) | **MIT xPRO** | MongoDB · Express · React · Node.js · Full Stack Development | `🔄 Jun–Dec 2026` |
-| 📊 [**AI-DATA-ENGINEERING-MITxPRO**](https://github.com/ASebastianAiX/AI-DATA-ENGINEERING-MITxPRO) | **MIT xPRO** | ETL Pipelines · Apache Airflow · Data Warehousing · dbt · Big Data | `🔜 Sep 2026` |
-| 🎓 [**ASU-BS-Data-Science**](https://github.com/ASebastianAiX/ASU-BS-Data-Science) | **Arizona State University** | Senior Level · BS Data Science · Software Dev & BI Analytics | `🔄 Jul 2026–Dec 2027` |
+| Repository | Institution | Focus | Dates | Status |
+|:-----------|:------------|:------|:------|:------:|
+| 🏆 [**GENERATIVE-AI-DATA-SCIENCE**](https://github.com/ASebastianAiX/GENERATIVE-AI-DATA-SCIENCE) | Business Science University | RAG · LangGraph · Multi-Agent · SQL Agents · AWS Bedrock · MCP | Nov 2025 – Apr 2026 | `🏆 Certified` |
+| 🟠 **BSU-FORECAST-ENGINEER** *(repo coming)* | Business Science University | Time Series · Forecasting · Prophet · ARIMA · ML Pipelines | Aug 2026 – Oct 2026 | `🔜 Starting Aug 10` |
+| 🎓 [**Ai-MACHINE-LEARNING**](https://github.com/ASebastianAiX/Ai-MACHINE-LEARNING) | UT Austin · McCombs | Machine Learning · Predictive Modeling · NLP · Medical AI | Nov 2025 – Jul 2026 | `🔄 9/11` |
+| ⚙️ [**AI-ENGINEERING-**](https://github.com/ASebastianAiX/AI-ENGINEERING-) | Microsoft · AI Engineer Certificate | Azure AI · NLP · Computer Vision · GitHub Copilot | Jan 2026 – Aug 2026 | `🔄 17/23` |
+| 🛡️ [**CYBERSECURITY**](https://github.com/ASebastianAiX/CYBERSECURITY) | Johns Hopkins · Whiting School | Cryptography · MITRE ATT&CK · Malware Analysis · Wireshark | Feb 2026 – Jul 2026 | `🔄 8/14` |
+| 🌐 [**MERN-FULLSTACK-MITxPRO**](https://github.com/ASebastianAiX/MERN-FULLSTACK-MITxPRO) | MIT xPRO | MongoDB · Express · React · Node.js · Full Stack Development | Jun 2026 – Dec 2026 | `🔄 In Progress` |
+| 📊 [**AI-DATA-ENGINEERING-MITxPRO**](https://github.com/ASebastianAiX/AI-DATA-ENGINEERING-MITxPRO) | MIT xPRO | ETL Pipelines · Apache Airflow · Data Warehousing · dbt · Big Data | Sep 2026 – Mar 2027 | `🔜 Starting Sep 2026` |
+| 🎓 [**ASU-BS-Data-Science**](https://github.com/ASebastianAiX/ASU-BS-Data-Science) | Arizona State University | Senior Level · BS Data Science · Software Dev & BI Analytics | Jul 2026 – Dec 2027 | `🔄 In Progress` |
 
 ### 🔒 Production Platforms — Active & Near Launch
 
@@ -417,7 +417,7 @@ class Apollo(AppliedAIArchitect):
 > **Top 20 business school in the United States.** *(U.S. News & World Report)*
 
 🔵 &nbsp;**Post Graduate Program in AI & Machine Learning**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Nov 2025 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/8%2F12%20Projects-58a6ff?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏛️%20UT%20Austin-c9a84c?style=flat-square)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Nov 2025 – Jul 2026` &nbsp;·&nbsp; ![](https://img.shields.io/badge/9%2F11%20Projects-58a6ff?style=flat-square) &nbsp;![](https://img.shields.io/badge/🏛️%20UT%20Austin-c9a84c?style=flat-square)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FoodHub Analysis · Personal Loan Campaign (85%+ accuracy) · Easy Visa · Medical Assistant Problem Statement · Customer Churn Analysis · ML Algorithms · NLP · EDA
 
 <br>
